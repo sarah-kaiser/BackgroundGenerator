@@ -1,0 +1,478 @@
+{
+  "Origin": [
+    {
+      "Color": "Gold",
+      "Img": "img/1.png",
+      "Title": "In Motion",
+      "Content": "Whether by boat, land, or air, your home was the people and things that came along with you. This might have been a rustic slow-rolling adventure or a daring life on the run, but one thing is for certain: you never sat still for long.",
+      "Questions": [
+        "What was something you discovered along the way?",
+        "What was something you left behind?",
+        "What does the idea of settling down in one place hold for you? How long is too long?"
+      ]
+    },
+    {
+      "Color": "ForestGreen",
+      "Img": "img/2.png",
+      "Title": "Rites",
+      "Content": "Your place in the world was ordained. By man, god, or beast, you were upraised. This did not come without cost. You observed the secret rituals, made the unbreakable vows, ascended as an avatar of your people's intent.",
+      "Questions": [
+        "What was your sworn purpose?",
+        "Have you kept your vows?",
+        "What would / did make you break from them?"
+      ]
+    },
+    {
+      "Color": "MeadowGreen",
+      "Img": "img/3.png",
+      "Title": "A Warm Hearth",
+      "Content": "Whether in feast or famine, your heart and soul were enveloped and nurtured by the kindness of family or your community.  You carry them with you still as a warm glow in your chest, one that presses back all but the coldest chills.",
+      "Questions": [
+        "Who were the ones that called you theirs?",
+        "Where and how are they now?",
+        "How has this impacted you? "
+      ]
+    },
+    {
+      "Color": "DarkBlue",
+      "Img": "img/4.png",
+      "Title": "Ashen",
+      "Content": "Your life has been measured in temporary bolt holes and transient faces, eking out what you could from what others left behind. You might not even remember who nurtured you at first, whether it was a parent or someone with more heart than sense - it doesn’t matter now. Now there is only you, and the temporary company you keep. ",
+      "Questions": [
+        "Who or what stands out from these dark times as a moment of warmth?",
+        "How did these experiences impact your outlook on the world?",
+        "Do you wish something had happened differently?"
+      ]
+    },
+    {
+      "Color": "OceanBlue",
+      "Img": "img/5.png",
+      "Title": "Measured",
+      "Content": "Before you ever took your first breath, the totality of your life had been measured. Your life metered in man-hours, in resources spent and assets gained, in genetic forecasts. As you grew, your provisions, your company, your pleasures were all tailored for the best return on investment. You were always part of the plan, but was it part of yours?",
+      "Questions": [
+        "Who or what was the body responsible for your upbringing?",
+        "Are you still in service to their plan?",
+        "How has this experience set you apart?"
+      ]
+    },
+    {
+      "Color": "MeadowGreen",
+      "Img": "img/6.png",
+      "Title": "Menagerie",
+      "Content": "You couldn’t be allowed to remain. Instead, you were collected alongside others strange, terrible or wonderful. Perhaps this was in service to you, as a way to train and protect you or others, perhaps it was in service to another. In either case, you were closed off from the world and it from you, and now you and the world seem even stranger to each other than before.",
+      "Questions": [
+        "Who collected you and why?",
+        "What was it that set you apart and attracted their attention?",
+        "How do you feel about it now, are you glad for it?"
+      ]
+    },
+    {
+      "Color": "RustRed",
+      "Img": "img/7.png",
+      "Title": "Protegee ",
+      "Content": "You had a special something that couldn't be ignored, that saw you selected by a singular individual. Someone who took you underwing, taught you their craft, and more importantly, revealed to you your own potential. This person left a lasting mark on you, more-so than anyone else before that time. ",
+      "Questions": [
+        "Who were they and where are they now?",
+        "What was it they saw in you?",
+        "What are they to you now?"
+      ]
+    },
+    {
+      "Color": "DarkBlue",
+      "Img": "img/8.png",
+      "Title": "Forgotten",
+      "Content": "What remains of your life are fragments of memories, notes, scars, perhaps a few artefacts that you now carry. You live in hope, or perhaps in fear, that someone you meet one day might call you by a name you no longer remember and reveal to you what had been lost, that you might wake up one day and recall everything. It hasn’t happened yet.",
+      "Questions": [
+        "Talk with your GM and work out some fragmented memories you might recall.",
+        "Who are you now?",
+        "Which person would you rather be?"
+      ]
+    },
+    {
+      "Color": "BurntOrange",
+      "Img": "img/9.png",
+      "Title": "Promised",
+      "Content": "You are the walking hopes and dreams of those who raised you. A future leader, born under good omen, blessed by all the right saints, or perhaps just the healthy round-cheeked child to a family that had known no other fortune. One thing’s for certain: great things are expected of you. When judgement comes, will you have lived up to all that was expected of you?",
+      "Questions": [
+        "What are you meant to be?",
+        "How heavy is this burden, or is it a privilege? ",
+        "Do you think you’ll be ready?"
+      ]
+    },
+    {
+      "Color": "Gold",
+      "Img": "img/10.png",
+      "Title": "Restless",
+      "Content": "A restless spirit has always pushed you beyond the boundaries where others didn’t roam. No matter where you grew up, you always knew in your heart that home was way out there, past where the horizon meets the sky. In your feet and hands there comes a trembling when you’ve remained in one place too long, a nervous energy that mounts in times of stagnation. ",
+      "Questions": [
+        "How old were you when you ventured out for the last time?",
+        "What and who did you leave behind?",
+        "What are you seeking, do you even know or care?"
+      ]
+    }
+  ],
+
+  "Twist": [
+    {
+      "Color": "RustRed",
+      "Img": "img/2.png",
+      "Title": "Against All Odds",
+      "Content": "You shouldn't have made it through. Whether by fate, providence, blind luck, or just dogged determination - you managed to overcome something no one should have walked away from. This narrow brush with fate might have left you mostly intact, but what of you remains will never be the same. ",
+      "Questions": [
+        "What happened?",
+        "What did you lose?",
+        "What did you gain?"
+      ]
+    },
+
+    {
+      "Color": "ForestGreen",
+      "Img": "img/.png",
+      "Title": "Cast Down",
+      "Content": "You lost more in a moment than most gain in a lifetime. Maybe you crossed the wrong person, were in the wrong place at the wrong time, or made a terrible mistake - whichever the case, you’ve paid for it dearly. In your idle moments you worry the memory like a sore, replaying the events and what you might have done differently. ",
+      "Questions": [
+        "What did you do and what did you lose?",
+        "Do you think you deserved it?",
+        "Can you ever get it back?"
+      ]
+    },
+
+    {
+      "Color": "BurntOrange",
+      "Img": "img/.png",
+      "Title": "Upraised",
+      "Content": "You cannot claim responsibility for your recent windfall. Someone saw a usefulness in you, a potential, and raised you to a position or granted you the power to do something with it. A double-edged gift, as favours are rarely given with nothing expected in return. ",
+      "Questions": [
+        "What were you bestowed?",
+        "What will you give in return?",
+        "What happens if you don’t follow through?"
+      ]
+    },
+
+    {
+      "Color": "DarkBlue",
+      "Img": "img/.png",
+      "Title": "Annihilation",
+      "Content": "Everything is gone. Your home, your connections, anything you held dear, spare, if you're lucky, a scant artefact or two. Perhaps the destruction was so complete that it's irrevocable - but even if you can recover anything from before, life will never be the same. ",
+      "Questions": [
+        "What happened and why?",
+        "What did you keep?",
+        "Why did you make it through?"
+      ]
+    },
+
+    {
+      "Color": "OceanBlue",
+      "Img": "img/.png",
+      "Title": "Blighted",
+      "Content": "You were infected, altered. Perhaps this was mundane in nature - a ruinous sickness that gutted your community and scarred those who remained.Or perhaps it was magical instead, a wild or intentional curse upon you, your community, or simply anyone unlucky enough to be in its path. ",
+      "Questions": [
+        "How were you infected and what was the infection?",
+        "Who was responsible for this infection? Who was affected?",
+        "How was it cured, or does it persist even still?"
+      ]
+    },
+
+    {
+      "Color": "RustRed",
+      "Img": "img/.png",
+      "Title": "Resettled",
+      "Content": "Upheaval marked your coming of age as you were forced to uproot your life and travel, perhaps to lands you had never even heard of before. There you did your best to eke out life, perhaps in the shadow of an entirely new culture, perhaps in a wilderness apart from any you had ever known. ",
+      "Questions": [
+        "Why were you forced to move?",
+        "Who came with you and who or what did you leave behind?",
+        "What do you miss most? What do you like most about this new place?"
+      ]
+    },
+
+    {
+      "Color": "RustRed",
+      "Img": "img/.png",
+      "Title": "Recruited",
+      "Content": "Nobody could be spared. The why feels almost inconsequential now in comparison to the utter annihilation of the life that had come before. Perhaps this was always on the cards for you, perhaps it was sudden, but you - and likely many of the people you knew - were reshaped to serve another purpose, and your live may never be your own again. ",
+      "Questions": [
+        "Did you know you were going to be recruited? Did you volunteer? ",
+        "Who owns you, and what was the nature of their conflict?",
+        "How has this changed you?"
+      ]
+    },
+
+    {
+      "Color": "Gold",
+      "Img": "img/.png",
+      "Title": "Escaped",
+      "Content": "You couldn’t bear it any longer. Your life before, a recent incarceration, a duty or service you could no longer burden - you did the only thing you felt within your power to do. You left. Whatever comes now, at least it wasn’t the fate that was lying for you down the road, but how long can you outrun it?",
+      "Questions": [
+        "What were you escaping?",
+        "How did you escape? ",
+        "What or who did you leave behind?"
+      ]
+    },
+
+    {
+      "Color": "ForestGreen",
+      "Img": "img/.png",
+      "Title": "Stolen ",
+      "Content": "For something to be stolen, it must have value. You held a value too great to be ignored by someone with the means to acquire it. Whether you were an inheritor to power or privilege, and history caught up to you - or perhaps you simply had an ineffable quality that couldn’t be denied to a creature that desired it. Whatever the case, for the moment, your life is not wholly your own. ",
+      "Questions": [
+        "Who or what has acquired you?",
+        "Why? To what end?",
+        "How do you feel about this?"
+      ]
+    },
+
+    {
+      "Color": "OceanBlue",
+      "Img": "img/.png",
+      "Title": "Entrusted",
+      "Content": "You were the only one who could be trusted with this burden. Perhaps it’s as mundane as an artefact sacred to your people, pantheon, or patron. Perhaps it’s as precious and fragile as a young child or rare creature. No matter the specifics, you’re now the one responsible for its fate.",
+      "Questions": [
+        "What were you entrusted with?",
+        "Why you? What do you need to do?",
+        "What happens if you fail?"
+      ]
+    }
+  ],
+
+  "Motivation": [
+    {
+      "Color": "BurntOrange",
+      "Img": "img/3.png",
+      "Title": "Seeking what was Taken",
+      "Content": "This is your burden, your duty, maybe even your pleasure - but no matter the specifics, it might be the death of you. Something vital was taken from you or someone who thought you were the only one who could get it back. You won't stop until you do. ",
+      "Questions": [
+        "What was it?",
+        "Who or what took it?",
+        "What happens if it's never retrieved?"
+      ]
+    },
+    {
+      "Color": "Gold",
+      "Img": "img/.png",
+      "Title": "Wanderlust",
+      "Content": "Your current and unslakable purpose is to drink as deeply from the cup of life as possible. Visit every city. Try every dish. Fall into and out of love with everyone and everything you meet. Life is a beautiful and transient thing, and you plan on making the most of it.",
+      "Questions": [
+        "What set you on this path?",
+        "When have you drank too deeply?",
+        "What are your favourite sorts of delights?"
+      ]
+    },
+
+    {
+      "Color": "ForestGreen",
+      "Img": "img/.png",
+      "Title": "Protector",
+      "Content": "Your life is sworn to the protection of another. You are a bulwark against danger, corruption, or worse to someone or something more important than you. Is that another person? A community? A faith? An idea?  Whatever it is, to you, it’s more valuable than life itself.",
+      "Questions": [
+        "What do you protect?",
+        "Why you?",
+        "Have you any doubts, or have you ever flagged in your conviction? "
+      ]
+    },
+
+    {
+      "Color": "RustRed",
+      "Img": "img/.png",
+      "Title": "Sworn Revenge",
+      "Content": "Nothing is left in this life for you but the bitter-sweetness of revenge. You’ve been warned this path is hollow, that it will leave you wanting, that whatever you might find at the end will not fill the hole that once held something that defined you. You don’t care. Revenge is all you have left.",
+      "Questions": [
+        "What happened that set you on this path?",
+        "What has this pursuit cost you? ",
+        "If you could snap your fingers and make it so, what would you really want?"
+      ]
+    },
+
+    {
+      "Color": "BurntOrange",
+      "Img": "img/.png",
+      "Title": "For Fun and Profit",
+      "Content": "They say you need a cause. They say you need to have principles, that you can’t just sleep rough every night and climb every hill in your way. They say, occasionally, you should eat a square meal, do a bit of charity, get in right with the right people, and maybe you wouldn’t get chased out of town quite so often. They say a lot of things. You, however, make a living and have a good time doing it.",
+      "Questions": [
+        "What’s your idea of a good time?",
+        "What set you down this path? ",
+        "Is there anything you would fight for? Die for? Pro-bono?"
+      ]
+    },
+
+    {
+      "Color": "DarkBlue",
+      "Img": "img/.png",
+      "Title": "As my Lord Wills It",
+      "Content": "You are the avatar of another, an extension of their will. Someone whom you respect so greatly, love so completely, or are bound to so totally, that you’ve no other choice than to enact their desires across any distance. At any cost. This incredible burden does not come for nothing - where you tread, your lord’s grace, power, and wrath goes too, yours to command.",
+      "Questions": [
+        "Who do you serve?",
+        "What responsibilities do you bear? What resources are you granted?",
+        "What could make you flag in your dedication?"
+      ]
+    },
+
+    {
+      "Color": "BurntOrange",
+      "Img": "img/.png",
+      "Title": "One Last Job",
+      "Content": "You’re ready to bin it all off. Retire. Move to a nicer locale. Or maybe just find a more honest line of work - all you need to do to get there is this one last job. You said the last job was the last one too, but really this time - you mean it. Last job. Binning it all off. No amount of money will make you come back, because you’re in for an honest living, as an honest person. Honest.",
+      "Questions": [
+        "Oh, but you do love it don’t you? What is it that you're so good at?",
+        "What should you probably be doing instead, when you bin it off? ",
+        "Why can’t you help yourself?"
+      ]
+    },
+
+    {
+      "Color": "Gold",
+      "Img": "img/.png",
+      "Title": "Perfection",
+      "Content": "To what greater purpose can one aspire than simple perfection of one’s craft? To gain a more-perfect understanding of the universe, to advance one’s skills at combat or music or even art. Every adversary is a teacher, every challenge - an opportunity. Whoever you return home as, it will be as a more-perfect entity than had you sat stagnate. ",
+      "Questions": [
+        "What is your craft?",
+        "What do you perceive as your imperfections?",
+        "What are they in truth?"
+      ]
+    },
+
+    {
+      "Color": "OceanBlue",
+      "Img": "img/.png",
+      "Title": "Survival",
+      "Content": "Life is a rushing river, forever churning you under - stop swimming for one moment and you’ll choke. All your life you’ve kicked and fought for your existance, and to stop now, to rest, to build something and settle is unthinkable. You have to keep running, to keep looking over your shoulder, to keep fighting. Don’t you?",
+      "Questions": [
+        "What is it you're living for?",
+        "What, if anything, is still pursuing you?",
+        "What gives you peace?"
+      ]
+    },
+
+    {
+      "Color": "MeadowGreen",
+      "Img": "img/.png",
+      "Title": "Delve Deeper",
+      "Content": "What is life but discovery? New people, places, things. Secrets hiding deep in the great crevices of the world, they’re all out there just waiting to be found. All you need is the right tools, a sharp team, and a stalwart vessel and you’d be ready at a moment’s notice to brave the very edges of the unknown. ",
+      "Questions": [
+        "What is your area of expertise / obsession?",
+        "How do you feel about secrets that weren’t meant to be found?",
+        "What lengths might you go to for the right find?"
+      ]
+    }
+  ],
+
+  "Complication": [
+    {
+      "Color": "DarkBlue",
+      "Img": "img/4.png",
+      "Title": "Fate Stalked",
+      "Content": "You can't escape it forever. You try to put distance between you and your fate and forget it, but it hasn't forgotten you. Maybe you're farflung royalty, too far down the line to be a contender - or so you thought. Maybe you've been cursed to a specific death or deed. Maybe you were born under ill omen, fated for ruinous affiliations. But it probably won't happen. Probably.",
+      "Questions": [
+        "How were you cursed?",
+        "What will be your ordained fate?",
+        "How do you try to escape it?"
+      ]
+    },
+    {
+      "Color": "ForestGreen",
+      "Img": "img/.png",
+      "Title": "Injury",
+      "Content": "In a moment your life changed forever. Maybe it’s a deep wound earned in combat that pains you to this day, years later. Perhaps an amputation or alteration to your senses or abilities from a brush with fate. Whichever the case, it’s a change so pivotal it’s redefined how you see the world and how you see yourself.",
+      "Questions": [
+        "What changed?",
+        "How did this impact your life at first?",
+        "What does it mean to you now? How have you adapted?"
+      ]
+    },
+
+    {
+      "Color": "RustRed",
+      "Img": "img/.png",
+      "Title": "Dark Obsession",
+      "Content": "You were always going to die anyway. Why not enjoy life while you have it, or at least devote it to something worthwhile? No matter how you justify it, deep down, you know it’s an addiction. To a substance, to a patron, maybe even to a forbidden sect of knowledge. Whatever the specifics, it’s too late to stop now.",
+      "Questions": [
+        "What is your obsession?",
+        "How did it start? What could make you leave it? ",
+        "Is this the truth?"
+      ]
+    },
+
+    {
+      "Color": "OceanBlue",
+      "Img": "img/.png",
+      "Title": "Malady",
+      "Content": "You were afflicted. Perhaps it was long ago, perhaps recently, but this curse weighs on your each and every moment. Perhaps this was an illness, or perhaps it’s occult or manufactured, whatever the case - until you find a cure - you live on as a shell of your former self.",
+      "Questions": [
+        "What is the nature of your malady? Why did it happen?",
+        "How do you endure it?",
+        "How can you rid yourself of it?"
+      ]
+    },
+
+    {
+      "Color": "RustRed",
+      "Img": "img/.png",
+      "Title": "Betrayed",
+      "Content": "You live as a reflection of your former life. Someone or something you had devoted your life to, sworn oath to, or shaped the very framework of how you understood the world, betrayed you. Or maybe your eyes opened and you realised you had been lied to the whole time. In either case, this fracture has come to define you. Will you overcome it, or will you break too?",
+      "Questions": [
+        "Who were you before?",
+        "What was the lie?",
+        "Who are you now?"
+      ]
+    },
+
+    {
+      "Color": "BurntOrange",
+      "Img": "img/.png",
+      "Title": "Unfaithful",
+      "Content": "It simply just wasn’t worth it. Maybe you were sworn to a service, a community, a faith or individual - but you aren’t now, or perhaps you won’t be soon. Maybe they asked for too much, or they weren’t what you thought when you pledged yourself to their cause, or maybe this was your plan all along. Whatever the case, your word as your bond won’t carry the weight it used to.",
+      "Questions": [
+        "Who did you swear to?",
+        "Why did you break your word?",
+        "How has this changed the way you see yourself?"
+      ]
+    },
+
+    {
+      "Color": "DarkBlue",
+      "Img": "img/.png",
+      "Title": "Intense Phobia",
+      "Content": "You know a little bit of how it must feel to be a beast. To be subject to an instinct that boils up your gut, turns your heart to stone and your legs to jelly. No logic can squash it, no warning eases the animal fear. How you wish you could change it, to overcome it, but you know it’s out there - and you’re not ready.",
+      "Questions": [
+        "What’s the source of your fear?",
+        "How or why did this start?",
+        "What happens when you encounter it?"
+      ]
+    },
+
+    {
+      "Color": "ForestGreen",
+      "Img": "img/.png",
+      "Title": "Hunted",
+      "Content": "Fate creeps up your shadow a little more each day. Was it chance or a mistake that set this wheel in motion? Or was it calculated, and if so, was it worth it? As the days tick down until you’re caught and brought to bear, you die small deaths of fleeing places you loved and people who knew you. By the time they catch you, what will remain?",
+      "Questions": [
+        "What set this in motion?",
+        "Who pursues you? ",
+        "What happens if they catch you?"
+      ]
+    },
+
+    {
+      "Color": "Gold",
+      "Img": "img/.png",
+      "Title": "Can't Back Down",
+      "Content": "You tell yourself it's a matter of honour -- and maybe it is -- but the outcome never feels very honourable. Whether it’s a fight, a bet, or plain old obvious bait, you’re not just going to take it - you’re going to rip the whole hand off and beat them with it. ",
+      "Questions": [
+        "Was there after a time you backed down from a challenge? Why?",
+        "Was there ever a time you wished you had?",
+        "What happens if you do back down? "
+      ]
+    },
+
+    {
+      "Color": "OceanBlue",
+      "Img": "img/.png",
+      "Title": "Burdened",
+      "Content": "They can’t ever know. If the truth were ever known, it would be ruinous - to you, perhaps to others. Perhaps someone was murdered or hurt under your watch. Perhaps you made a horrible mistake. Maybe the life you’re living isn’t really your own - it doesn’t matter. All that matters now is preserving the lie and living with the aftermath.",
+      "Questions": [
+        "What was the lie?",
+        "Why have you hidden it?",
+        "What could happen if you’re ever found out?"
+      ]
+    }
+  ]
+}
