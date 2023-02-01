@@ -63,6 +63,12 @@ fetch("backgrounds.json")
   });
 
 function pickACard() {
+  scrollTo({
+    top: 0,
+    left: 0,
+    behavior: "smooth",
+  });
+
   fetch("backgrounds.json")
     .then(function (response) {
       return response.json();
