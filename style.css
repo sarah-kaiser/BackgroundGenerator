@@ -22,8 +22,8 @@ body {
   border-radius: 9px;
   font-family: "Gotham", sans-serif;
   font-weight: 400;
-  font-size: 13px;
-  line-height: 18px;
+  font-size: 15px;
+  line-height: 140%;
   color: #151515;
   width: 250px;
   box-shadow: 0px 4px 17px rgba(0, 0, 0, 0.99);
@@ -71,7 +71,7 @@ h1 {
     text-transform: uppercase;
     text-align: center;
     font-weight: 100;
-    margin: 0 0 50px;
+    margin: 2px 0 44px;
 }
 
 
@@ -91,7 +91,7 @@ input#clickMe {
   display: block;
   font-family: "Gotham", sans-serif;
   font-weight: 400;
-  font-size: 13px;
+  font-size: 16px;
   line-height: 18px;
 }
 
@@ -110,7 +110,7 @@ input#clickMe {
     margin: 18px 0 0;
   }
   .card h2 {
-    margin: 0 0 58px;
+    margin: 2px 0 48px;
   }
   input#clickMe {
     margin: -1em auto 2em;
