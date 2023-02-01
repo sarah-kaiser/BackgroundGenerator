@@ -69,6 +69,11 @@ function pickACard() {
     behavior: "smooth",
   });
 
+  let cardNum = Math.floor(Math.random() * 10);
+  let cardNum1 = Math.floor(Math.random() * 10);
+  let cardNum2 = Math.floor(Math.random() * 10);
+  let cardNum3 = Math.floor(Math.random() * 10);
+
   fetch("backgrounds.json")
     .then(function (response) {
       return response.json();
