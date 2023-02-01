@@ -3,14 +3,14 @@
 body {
   background-color: #1a1c1e;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  padding: 4em 0 0;
+  padding: 2em 0 0;
 }
 
 #container {
   display: flex;
   flex-direction: row;
   -ms-flex-align: center;
-  margin: 4em 2em 0;
+  margin: 2em 2em 0;
   justify-content: center;
   flex-wrap: wrap;
 }
@@ -87,7 +87,7 @@ input#clickMe {
   box-shadow: none;
   border-style: none;
   border-radius: 9px;
-  margin: 3em auto 2em;
+  margin: 2em auto 2em;
   display: block;
   font-family: "Gotham", sans-serif;
   font-weight: 400;
@@ -100,7 +100,7 @@ input#clickMe {
     padding-top: 1em;
   }
   #container {
-    margin: 2em 0em;
+    margin: 2em 0em 0;
   }
   .card {
     margin: 0 0 2em;
@@ -113,7 +113,7 @@ input#clickMe {
     margin: 2px 0 48px;
   }
   input#clickMe {
-    margin: -1em auto 2em;
+    margin: 0em auto 2em;
   }
 }
 
